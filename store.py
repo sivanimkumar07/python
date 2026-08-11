@@ -7,7 +7,7 @@ fruits.append("kiwi")
 vegetables.insert(1,"onion")
 
 beverages.remove("tea")
-inventary=["fruits","vegetables","beverages"]
+inventary=[fruits,vegetables,beverages]
 
 print(fruits[0:2])
 
